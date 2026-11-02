@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi ADB</string>
+    <string name="status_label">当前状态</string>
+    <string name="checking">正在检测…</string>
+    <string name="ip_placeholder">本机 IP：检测中</string>
+    <string name="cmd_placeholder">adb connect …</string>
+    <string name="command_label">在电脑上执行这条命令</string>
+    <string name="copy">复制连接命令</string>
+    <string name="enable">开启 WiFi ADB</string>
+    <string name="disable">关闭 WiFi ADB</string>
+    <string name="refresh">刷新状态</string>
+    <string name="detail_default">开启后可在电脑上通过 WiFi 连接本设备，无需插着 USB 数据线。</string>
+    <string name="keep_on_reboot">设备重启后自动保持 WiFi ADB</string>
+</resources>

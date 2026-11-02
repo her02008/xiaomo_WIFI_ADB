@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色高对比配色，小屏远距离可读 -->
+    <color name="bg">#FF12161C</color>
+    <color name="card">#FF1E242E</color>
+    <color name="card_stroke">#FF39414F</color>
+
+    <color name="text_primary">#FFF5F7FA</color>
+    <color name="text_secondary">#FFB6C0CE</color>
+
+    <color name="status_on">#FF3DDC84</color>
+    <color name="status_off">#FFFFC85C</color>
+
+    <color name="btn_on">#FF2E9E5B</color>
+    <color name="btn_off">#FFC0392B</color>
+    <color name="btn_secondary">#FF2C3442</color>
+    <color name="btn_text">#FFFFFFFF</color>
+
+    <color name="code_bg">#FF0B0E13</color>
+    <color name="code_text">#FF7FD1FF</color>
+</resources>
